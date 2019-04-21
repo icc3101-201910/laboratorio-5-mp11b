@@ -1,0 +1,7 @@
+C:\Users\Matias\Desktop\Universidad\Programacion Orientada a Objetos\Programas Varios\Lab5_Ponce_Matias\Lab5_Ponce_Matias\Lab5_Ponce_Matias\obj\Debug\Lab5_Ponce_Matias.csprojAssemblyReference.cache
+C:\Users\Matias\Desktop\Universidad\Programacion Orientada a Objetos\Programas Varios\Lab5_Ponce_Matias\Lab5_Ponce_Matias\Lab5_Ponce_Matias\obj\Debug\Lab5_Ponce_Matias.csproj.CoreCompileInputs.cache
+C:\Users\Matias\Desktop\Universidad\Programacion Orientada a Objetos\Programas Varios\Lab5_Ponce_Matias\Lab5_Ponce_Matias\Lab5_Ponce_Matias\bin\Debug\Lab5_Ponce_Matias.exe.config
+C:\Users\Matias\Desktop\Universidad\Programacion Orientada a Objetos\Programas Varios\Lab5_Ponce_Matias\Lab5_Ponce_Matias\Lab5_Ponce_Matias\bin\Debug\Lab5_Ponce_Matias.exe
+C:\Users\Matias\Desktop\Universidad\Programacion Orientada a Objetos\Programas Varios\Lab5_Ponce_Matias\Lab5_Ponce_Matias\Lab5_Ponce_Matias\bin\Debug\Lab5_Ponce_Matias.pdb
+C:\Users\Matias\Desktop\Universidad\Programacion Orientada a Objetos\Programas Varios\Lab5_Ponce_Matias\Lab5_Ponce_Matias\Lab5_Ponce_Matias\obj\Debug\Lab5_Ponce_Matias.exe
+C:\Users\Matias\Desktop\Universidad\Programacion Orientada a Objetos\Programas Varios\Lab5_Ponce_Matias\Lab5_Ponce_Matias\Lab5_Ponce_Matias\obj\Debug\Lab5_Ponce_Matias.pdb
